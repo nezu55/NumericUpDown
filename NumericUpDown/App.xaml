@@ -7,6 +7,9 @@
     <ResourceDictionary>
       <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="/Styles/NumericUpDown.xaml"/>
+        <ResourceDictionary Source="/Styles/OutlineButton.xaml"/>
+        <ResourceDictionary Source="/Styles/RaisedButton.xaml"/>
+        <ResourceDictionary Source="/Styles/FlatButton.xaml"/>
       </ResourceDictionary.MergedDictionaries>
     </ResourceDictionary>
   </Application.Resources>
